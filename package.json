@@ -14,7 +14,7 @@
   "author": "GuiFerreira",
   "license": "ISC",
   "devDependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "gulp-react-easy": "^0.1.9",
